@@ -1,9 +1,9 @@
 ## Citadel Station 13
 Based and maintained from /tg/station.
 
-[![Build Status](https://api.travis-ci.org/nuke-ops/Skyrat.png)](https://travis-ci.org/nuke-ops/Skyrat) 
-[![Percentage of issues still open](http://isitmaintained.com/badge/open/nuke-ops/Skyrat.svg)](http://isitmaintained.com/project/nuke-ops/Skyrat "Percentage of issues still open")  
-[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/nuke-ops/Skyrat.svg)](http://isitmaintained.com/project/nuke-ops/Skyrat "Average time to resolve an issue")
+[![Build Status](https://api.travis-ci.org/nuke-ops/nostration.png)](https://travis-ci.org/nuke-ops/nostration) 
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/nuke-ops/nostration.svg)](http://isitmaintained.com/project/nuke-ops/nostration "Percentage of issues still open")  
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/nuke-ops/nostration.svg)](http://isitmaintained.com/project/nuke-ops/nostration "Average time to resolve an issue")
 
 [![forthebadge](http://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/pretty-risque.svg)](https://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](http://forthebadge.com) [![forinfinityandbyond](https://user-images.githubusercontent.com/5211576/29499758-4efff304-85e6-11e7-8267-62919c3688a9.gif)](https://www.reddit.com/r/SS13/comments/5oplxp/what_is_the_main_problem_with_byond_as_an_engine/dclbu1a)
 
