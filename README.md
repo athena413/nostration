@@ -1,4 +1,4 @@
-## Citadel Station 13
+## [No]St[r]ation
 Based and maintained from /tg/station.
 
 [![Build Status](https://api.travis-ci.org/nuke-ops/nostration.png)](https://travis-ci.org/nuke-ops/nostration) 
