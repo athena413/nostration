@@ -28,7 +28,7 @@ Based and maintained from /tg/station.
 * **Website:** http://nukeops.asuscomm.com/ss13  
 * **Forums:** Not yet  
 * **Ban Appeals:** https://discord.com/invite/bxgeRPq
-* **Code:** https://github.com/ss13-nukeops/nostration  
+* **Code:** https://github.com/nuke-ops/nostration  
 * **Discord:**  [Here](https://discord.com/invite/bxgeRPq)  
 
 ## DOWNLOADING
