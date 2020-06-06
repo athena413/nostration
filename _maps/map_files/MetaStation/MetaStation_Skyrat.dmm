@@ -33268,8 +33268,7 @@
 	pixel_y = 5
 	},
 /obj/item/storage/toolbox/mechanical{
-	pixel_x = 0;
-	pixel_y = 0
+	
 	},
 /turf/open/floor/wood,
 /area/crew_quarters/bar)
@@ -63914,7 +63913,6 @@
 	pixel_y = -7
 	},
 /obj/item/assembly/signaler{
-	pixel_x = 0;
 	pixel_y = -7
 	},
 /obj/item/assembly/signaler{
@@ -63930,7 +63928,6 @@
 	pixel_y = 3
 	},
 /obj/item/assembly/prox_sensor{
-	pixel_x = 0;
 	pixel_y = 3
 	},
 /obj/item/assembly/prox_sensor{
@@ -63998,7 +63995,6 @@
 /area/science/mixing)
 "cBG" = (
 /obj/item/storage/toolbox/mechanical{
-	pixel_x = 0;
 	pixel_y = 5
 	},
 /obj/item/storage/toolbox/electrical{
@@ -78217,7 +78213,7 @@
 	name = "Test Chamber Telescreen";
 	network = list("toxins");
 	pixel_x = -32;
-	pixel_y = 0
+	
 	},
 /turf/open/floor/plasteel,
 /area/science/mixing)
@@ -78440,7 +78436,6 @@
 	},
 /obj/item/stack/sheet/plasteel/fifty{
 	amount = 20;
-	pixel_x = 0;
 	pixel_y = 1
 	},
 /obj/effect/turf_decal/bot,
@@ -79711,7 +79706,6 @@
 /obj/effect/turf_decal/bot,
 /obj/structure/rack,
 /obj/item/storage/toolbox/mechanical{
-	pixel_x = 0;
 	pixel_y = 5
 	},
 /obj/item/storage/toolbox/electrical{

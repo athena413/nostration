@@ -13464,7 +13464,6 @@
 	department = "Custodial Closet";
 	departmentType = 0;
 	name = "Custodial RC";
-	pixel_x = 0;
 	pixel_y = -32
 	},
 /turf/open/floor/plasteel,
