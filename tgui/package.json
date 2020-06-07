@@ -18,7 +18,6 @@
     "browserify": "13.0.0",
     "bundle-collapser": "1.2.1",
     "cached-path-relative": "1.0.2",
-    "caniuse-lite": "^1.0.30001078",
     "cssnano": "^4.1.10",
     "dom4": "1.7.0",
     "es3ify": "0.2.1",
